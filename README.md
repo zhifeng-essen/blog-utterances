@@ -1,2 +1,2 @@
 # blog-utterances
-Manage the blog post comments using [utterance](https://utteranc.es/).
+Manage the blog post comments using [utterances](https://utteranc.es/).
